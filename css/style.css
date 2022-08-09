@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.info-bar{
+    text-align: center;
+    background: #1A237E;
+    color: white;
+    padding: 5px;
+    font-size: 1vw;
+}
+
+.banner{
+    width: 100vw;
+    height: 80vh;
+    background-image: url("../images/header-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.header-content{
+    width: 100vw;
+    height: 80vh;
+    background: #1a227eac;
+    text-align: center;
+    padding-top: 10vh;
+    padding-left: 20vh;
+    padding-right: 20vh;
+}
+
+.header-content h6{
+    font-size: 1vw;
+}
+
+.header-content h1{
+    font-size: 9vw;
+}
+
+.header-content button{
+    background: #5aa3f7;
+    border: 1px solid white;
+    border-radius: 50vw;
+    padding: 10px;
+    font-size: 1.5vw;
+    color: white;
+}
+
+.care-modal{
+    width: 70vw;
+    height: 55vh;
+    background: rgb(235, 232, 232);
+    margin-left: 15vw;
+    margin-top: -10vh;
+    border-radius: 3px;
+    padding-top: 5vh;
+    padding-left: 10vw;
+}
+
+.care-modal h6{
+    color: #2e2c74;
+}
+
+.care-modal h3{
+    font-size: 2vw;
+    margin-top: 2vh;
+}
+
+.service{
+    display: flex;
+    justify-content: space-around;
+    margin-left: -4vw;
+}
+
+.service-item{
+    width: 15vw;
+    height: 20vw;
+    margin-top: 2vh;
+}
+
+.service-item img{
+    width: 100px;
+    height: 100px;
+}
+
+.service-item p{
+    margin-top: 2vh;
+    text-align: justify;
+}
