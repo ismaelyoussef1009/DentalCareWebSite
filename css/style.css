@@ -14,7 +14,7 @@
 }
 
 .banner{
-    width: 100vw;
+    width: 100%;
     height: 80vh;
     background-image: url("../images/header-background.jpg");
     background-repeat: no-repeat;
@@ -23,7 +23,7 @@
 }
 
 .header-content{
-    width: 100vw;
+    width: 100%;
     height: 80vh;
     background: #1a227eac;
     text-align: center;
@@ -90,3 +90,241 @@
     margin-top: 2vh;
     text-align: justify;
 }
+
+.doctor-info{
+    width: 70vw;
+    height: 55vh;
+    margin-left: 15vw;
+    margin-top: 6vh;
+    border-radius: 3px;
+    padding-top: 5vh;
+    padding-left: 10vw;
+    display: flex;
+}
+
+.doctor-image{
+width: 80%;
+height: 50vh;
+margin-left: -65px;
+}
+
+.doctor-image img{
+    width: 350px;
+    height: 50vh;
+}
+
+.doctor-portfolio{
+    width: 80%;
+    height: 50vh;
+    padding-top: 50px;
+    margin-left: -95px;
+}
+
+.doctor-portfolio h6, h2, h5, p, button{
+    margin-top: 10px;
+}
+
+.doctor-portfolio h6{
+    color: #5aa3f7;
+    font-size: 10px;
+}
+
+.doctor-portfolio h2{
+    font-size: 35px;    
+}
+
+.doctor-portfolio h5{
+    color: #2e2c74;
+    font-size: 20px;
+}
+
+.doctor-portfolio button{
+    background: #5aa3f7;
+    font-size: 17px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 25px;
+    margin-left: 25px;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.doctor-main-ofer{
+    width: 100%;
+    height: 100vh;
+    border-radius: 3px;
+    padding-top: 5vh;
+    background: #1A237E;
+    text-align: center;
+}
+
+.docter-ofer1{
+    width: 100%;
+    height: 20vh;
+    
+}
+
+.docter-ofer1 h5{
+    padding-top: 20px;
+    color: white;
+}
+
+.docter-ofer1 p{
+    padding-top: 10px;
+    color: white;
+    font-size: 25px;
+}
+
+.doctor-ofer2{
+    width: 100%;
+    height: 70vh;
+    background: red;
+    margin-top: 30px;
+    display: flex;
+}
+
+.doctor-ofer-sub1{
+    width: 35%;
+    height: 70vh;
+    background: rgb(104, 210, 58);
+}
+
+.sub1{
+    width: 40%;
+    height: 15vw;
+    margin-top: 2vh;
+    background: white;
+}
+
+.sub1 img{
+    width: 100px;
+    height: 100px;
+   
+}
+
+.sub1 h5{
+    font-size: 19px;
+    
+}
+
+.sub1 p{
+    text-align: center;
+    
+}
+
+
+
+.sub2{
+    width: 40%;
+    height: 15vw;
+    margin-top: 2vh;
+    background: white;
+}
+
+.sub2 img{
+    width: 100px;
+    height: 100px;
+   
+}
+
+.sub2 h5{
+    font-size: 19px;
+    
+}
+
+.sub2 p{
+    text-align: center;
+    
+}
+
+
+
+
+
+.doctor-ofer-sub2{
+    width: 30%;
+    height: 70vh;
+    background: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.doctor-ofer-sub3{
+    width: 35%;
+    height: 70vh;
+    background: rgb(227, 23, 193);
+}
+
+.sub3{
+    width: 40%;
+    height: 15vw;
+    margin-top: 2vh;
+    background: white;
+}
+
+.sub3 img{
+    width: 100px;
+    height: 100px;
+   
+}
+
+.sub3 h5{
+    font-size: 19px;
+    
+}
+
+.sub3 p{
+    text-align: center;
+    
+}
+
+
+
+.sub4{
+    width: 40%;
+    height: 15vw;
+    margin-top: 2vh;
+    background: white;
+}
+
+.sub4 img{
+    width: 100px;
+    height: 100px;
+   
+}
+
+.sub4 h5{
+    font-size: 19px;
+    
+}
+
+.sub4 p{
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
